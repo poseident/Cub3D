@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   img_pixel_put.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/10 17:19:31 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 04:09:24 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 13:00:00 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

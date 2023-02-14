@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   find_char.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/13 16:11:19 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 03:31:55 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 12:59:21 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -68,4 +68,3 @@ int	check_parameters_map(t_game *game)
 	printf("maps OK\n");
 	return (0);
 }
-

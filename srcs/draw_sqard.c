@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   draw_sqard.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/10 16:36:49 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 04:12:05 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 12:59:10 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

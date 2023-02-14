@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   init_gameplay.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/09 00:48:32 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 03:57:48 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 13:01:14 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

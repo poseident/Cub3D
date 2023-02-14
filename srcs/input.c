@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   input.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/12 19:11:51 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 04:43:31 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 13:00:10 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

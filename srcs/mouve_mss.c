@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   mouve_mss.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/13 04:05:42 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 04:55:01 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 13:33:14 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,7 @@ static void	ft_move_test_2(int x, t_image *images, int *key)
 
 	rapport = M_PI / 2.0 / CUBE_X;
 	apos_mouse = rapport * x;
-	apos_mouse = apos_mouse - (M_PI / 4);
+	apos_mouse = apos_mouse - (M_PI);
 	images->game.map.p.apos = images->game.map.p.apos + apos_mouse;
 	if (images->game.map.p.apos < 0)
 			images->game.map.p.apos = (2 * M_PI) + images->game.map.p.apos;
@@ -60,7 +60,7 @@ static void	ft_move_mouse_2(int x, t_image *images, int *key)
 
 	rapport = M_PI / 2.0 / CUBE_X;
 	apos_mouse = rapport * x;
-	apos_mouse = apos_mouse - (M_PI / 4);
+	apos_mouse = apos_mouse - M_PI;
 	images->game.map.p.apos = images->game.map.p.apos + apos_mouse;
 	if (images->game.map.p.apos < 0)
 			images->game.map.p.apos = (2 * M_PI) + images->game.map.p.apos;

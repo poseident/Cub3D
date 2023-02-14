@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   init_texture.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/13 04:12:16 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 04:35:55 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 12:54:47 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

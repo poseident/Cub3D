@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   cub_3d_box2.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/12 18:13:13 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 05:13:03 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 12:58:44 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -64,5 +64,5 @@ void	ft_clear_logo_direction(t_image *images, t_game *cube)
 		cube->img.mlx_img, 0, 0);
 	legend = &images->legend;
 	mlx_put_image_to_window(legend->mlx_ptr, legend->win_ptr, \
-	legend->img.mlx_img, CUBE_X + 64, 403);
+		legend->img.mlx_img, CUBE_X + 64, 403);
 }

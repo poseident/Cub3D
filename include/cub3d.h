@@ -3,15 +3,16 @@
 /*                                                        :::      ::::::::   */
 /*   cub3d.h                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/31 14:27:48 by chajjar           #+#    #+#             */
-/*   Updated: 2023/02/14 05:09:45 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 13:27:33 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef CUB3D_H
 # define CUB3D_H
+
 # include <stdlib.h>
 # include <unistd.h>
 # include <math.h>
@@ -22,7 +23,7 @@
 # include <time.h>
 # include "../mlx/mlx.h"
 
-
+# ifdef __APPLE__
 #  define TOUCH_A 0
 #  define TOUCH_W 13
 #  define TOUCH_S 1
@@ -36,24 +37,29 @@
 #  define DEGREE_Y1 258
 #  define DEGREE_X2 146
 #  define DEGREE_Y2 291
+# endif
 
+# ifndef __TOUCH__
+#  define __TOUCH__
+#  define DEFINITION_TEXTURES 600
+#  define NB_TEXTURES 11
+#  define NB_ANIME 2  
+#  define IMAGE_X 900
+#  define IMAGE_Y 900
+#  define CUBE_X 600
+#  define CUBE_Y 600
+#  define LEGENDE_X 300
+#  define LEGENDE_Y 600
+# endif
 
-# define DEFINITION_TEXTURES 600
-# define NB_TEXTURES 11
-# define NB_ANIME 2  
-# define IMAGE_X 900
-# define IMAGE_Y 900
-# define CUBE_X 600
-# define CUBE_Y 600
-# define LEGENDE_X 300
-# define LEGENDE_Y 600
-
-# define WALL '1'
-# define FLOOR '0'
-# define NORTH 'N'
-# define SOUTH 'S'
-# define WEST 'W'
-# define EAST 'E'
+# ifdef __APPLE__
+#  define WALL '1'
+#  define FLOOR '0'
+#  define NORTH 'N'
+#  define SOUTH 'S'
+#  define WEST 'W'
+#  define EAST 'E'
+# endif
 
 # define SKY_COLOR 0x000000FF
 # define WALL_COLOR 0x006C767C
@@ -63,8 +69,6 @@
 # define SOUTH_COLOR 0x0000FF00
 # define EAST_COLOR 0x000000FF
 # define WEST_COLOR 0x00FFFF00
-
-# define ANGLE_OF_VIEW M_PI/4
 
 typedef struct s_vector
 {
@@ -206,7 +210,7 @@ void	init_angle_player(t_game *game);
 void	init_var_player(t_game *game);
 void	init_player_position(t_game *game, char *line, int y);
 int		find_player(char p, char *caracters);
-int 	count_char(char *str, char c);
+int		count_char(char *str, char c);
 void	check_nb_player(t_game *game);
 void	init_game(t_game *game);
 int		encode_rgb(uint8_t red, uint8_t green, uint8_t blue);

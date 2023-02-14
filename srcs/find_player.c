@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   find_player.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/13 16:54:13 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 03:37:48 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 12:59:38 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   color_funct.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/10 16:12:36 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 04:14:19 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 12:56:49 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,29 +3,29 @@
 /*                                                        :::      ::::::::   */
 /*   check_nb_player_map.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/08 10:54:50 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 03:52:21 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 12:56:21 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../include/cub3d.h"
 
-int count_char(char *str, char c)
+int	count_char(char *str, char c)
 {
-    int x;
-    int count;
+	int	x;
+	int	count;
 
-    x = 0;
-    count = 0;
-    while (str[x] != '\0' && ft_isprint(str[x]) != '\0')
-    {
-        if (str[x] == c)
-            count++;
-        x++;
-    }
-    return (count);
+	x = 0;
+	count = 0;
+	while (str[x] != '\0' && ft_isprint(str[x]) != '\0')
+	{
+		if (str[x] == c)
+			count++;
+		x++;
+	}
+	return (count);
 }
 
 void	check_nb_player(t_game *game)

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   anime_dir.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/12 19:31:56 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 05:01:42 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 12:53:02 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

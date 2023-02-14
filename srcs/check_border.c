@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   check_border.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/11 23:12:07 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 03:07:45 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 12:54:55 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

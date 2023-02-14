@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   print_map.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/09 18:44:42 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 04:04:28 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 13:00:41 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -67,4 +67,3 @@ int	print_map(t_game *game)
 	printf("print map OK\n");
 	return (0);
 }
-

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   movement_player.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/12 19:18:25 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 04:58:32 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 13:35:41 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

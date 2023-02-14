@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   check_map.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/05 19:14:18 by chajjar           #+#    #+#             */
-/*   Updated: 2023/02/14 02:18:43 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 12:55:02 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,6 +31,3 @@ void	check_file_map_parsing(t_game *game, int argc, char **argv)
 	game->parse.read_map = 0;
 	game->map.lines = 0;
 }
-
-
-

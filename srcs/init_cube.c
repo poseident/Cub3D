@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   init_cube.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/12 22:03:07 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 04:30:44 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 13:01:20 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

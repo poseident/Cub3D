@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_close.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/12 20:04:05 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 04:47:52 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 12:59:50 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

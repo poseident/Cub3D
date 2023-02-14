@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   cub_3d_box.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/12 18:12:52 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 05:07:27 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 12:57:12 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

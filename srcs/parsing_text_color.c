@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   parsing_text_color.c                               :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/01 19:01:40 by chajjar           #+#    #+#             */
-/*   Updated: 2023/02/14 03:20:03 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 13:00:47 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

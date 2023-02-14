@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   parse_utils.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/13 16:05:35 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 03:19:59 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 13:00:33 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

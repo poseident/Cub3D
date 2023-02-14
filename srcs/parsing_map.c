@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   parsing_map.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/01 17:19:04 by chajjar           #+#    #+#             */
-/*   Updated: 2023/02/14 03:28:12 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 13:00:53 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

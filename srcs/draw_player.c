@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   draw_player.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: charleshajjar <charleshajjar@student.42    +#+  +:+       +#+        */
+/*   By: bschweit <bschweit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/10 16:35:10 by charleshajj       #+#    #+#             */
-/*   Updated: 2023/02/14 04:06:34 by charleshajj      ###   ########.fr       */
+/*   Updated: 2023/02/14 12:59:00 by bschweit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -55,4 +55,3 @@ void	draw_player_p(t_game *game, int x, int y)
 		draw_player(game, x * 10, y * 10, WEST_COLOR);
 	}
 }
-
